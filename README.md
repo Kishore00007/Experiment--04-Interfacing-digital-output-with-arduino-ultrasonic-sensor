@@ -98,7 +98,7 @@ void loop()
 			
 			
 
-![image](https://user-images.githubusercontent.com/36288975/190135379-52ebacd5-ccd5-460f-a4cd-4d0ad1d9b179.png)
+![image](https://github.com/Kishore00007/Experiment--04-Interfacing-digital-output-with-arduino-ultrasonic-sensor/blob/main/table.jpg)
 
 			
 			
@@ -119,4 +119,4 @@ void loop()
 
 
 
- 
+ Thus the distance value is measured in"CM" using ultrasonic sensor
